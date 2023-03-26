@@ -86,3 +86,15 @@ Read and use Kalman to filter out the noise (putting this value in place of the 
 7.3 Engine run
 
 VIDEO fly:
+
+
+https://user-images.githubusercontent.com/89458703/227752750-f6cc4690-7326-44f0-b012-78029e7baa67.mp4
+
+
+https://user-images.githubusercontent.com/89458703/227752757-7c7d1b00-2199-4672-9143-83ebd9aedcb8.mp4
+
+done:
+
+
+![481ed68a86335b6d0222](https://user-images.githubusercontent.com/89458703/227752763-4ef92b88-5658-42f1-a598-b891ab66bf89.jpg)
+
