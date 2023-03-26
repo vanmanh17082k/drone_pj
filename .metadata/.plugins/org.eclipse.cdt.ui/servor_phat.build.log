@@ -1,0 +1,10 @@
+14:48:33 **** Build of configuration Debug for project servor_phat ****
+make -j8 all 
+arm-none-eabi-size   servor_phat.elf 
+   text	   data	    bss	    dec	    hex	filename
+   8356	     20	   1644	  10020	   2724	servor_phat.elf
+Finished building: default.size.stdout
+ 
+
+14:48:33 Build Finished. 0 errors, 0 warnings. (took 393ms)
+

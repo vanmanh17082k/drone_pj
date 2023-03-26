@@ -1,0 +1,12 @@
+11:22:26 **** Incremental Build of configuration Debug for project main_recieve_control_system ****
+make -j8 all 
+arm-none-eabi-size   main_recieve_control_system.elf 
+   text	   data	    bss	    dec	    hex	filename
+  19104	     20	   1992	  21116	   527c	main_recieve_control_system.elf
+Finished building: default.size.stdout
+ 
+arm-none-eabi-objcopy -O ihex main_recieve_control_system.elf main_recieve_control_system.hex
+ 
+
+11:22:28 Build Finished. 0 errors, 0 warnings. (took 1s.610ms)
+

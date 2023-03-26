@@ -1,0 +1,10 @@
+22:04:25 **** Incremental Build of configuration Debug for project main_quad ****
+make -j8 all 
+arm-none-eabi-size   main_quad.elf 
+   text	   data	    bss	    dec	    hex	filename
+  33968	    376	   2272	  36616	   8f08	main_quad.elf
+Finished building: default.size.stdout
+ 
+
+22:04:26 Build Finished. 0 errors, 0 warnings. (took 549ms)
+

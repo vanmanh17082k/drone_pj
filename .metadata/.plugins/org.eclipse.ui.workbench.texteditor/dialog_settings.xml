@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="alculate_agl_roll_pitch"/>
+		<list key="findhistory">
+			<item value="alculate_agl_roll_pitch"/>
+			<item value="alculate_agl_roll_pitch "/>
+			<item value="correct_data_and_calibrate_3truc"/>
+			<item value="calibrate_gyro"/>
+			<item value="kalman"/>
+			<item value="1300"/>
+			<item value="1200"/>
+			<item value="1240"/>
+			<item value="roll"/>
+			<item value="Distance"/>
+			<item value="speed_up_down"/>
+			<item value="gyro_roll_cal_tt"/>
+			<item value="PID_HG"/>
+			<item value="status_operation"/>
+			<item value="status"/>
+		</list>
+		<list key="replacehistory">
+			<item value="MPU6050_Data.A_pitch"/>
+			<item value="MPU6050_Data.A_yaw"/>
+			<item value="MPU6050_Data.A_roll"/>
+			<item value="G_roll"/>
+			<item value="_setpoint"/>
+			<item value=""/>
+			<item value="DataStruct-&gt;Gyro_Z_RAW"/>
+			<item value="DataStruct-&gt;Gyro_Y_RAW"/>
+			<item value="DataStruct-&gt;Gyro_X_RAW"/>
+			<item value="/"/>
+			<item value="old_data[0]"/>
+			<item value="new_data[0]"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1257"/>
+		<item key="DIALOG_Y_ORIGIN" value="185"/>
+		<item key="DIALOG_WIDTH" value="511"/>
+		<item key="DIALOG_HEIGHT" value="523"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="org.eclipse.ui.texteditor.GotoLineAction$GotoLineDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="567"/>
+		<item key="DIALOG_Y_ORIGIN" value="314"/>
+	</section>
+</section>

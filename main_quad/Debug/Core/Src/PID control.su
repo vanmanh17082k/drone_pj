@@ -1,0 +1,5 @@
+../Core/Src/PID control.c:33:6:PID_Calculation	32	static
+../Core/Src/PID control.c:50:6:PID_Calculation_thr	32	static
+../Core/Src/PID control.c:67:6:Int_PID_Integrator	24	static
+../Core/Src/PID control.c:74:6:Reset_PID_Integrator	16	static
+../Core/Src/PID control.c:81:6:Reset_All_PID_Integrator	8	static

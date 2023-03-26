@@ -1,0 +1,12 @@
+10:25:18 **** Incremental Build of configuration Debug for project control_quad_32t6a ****
+make -j8 all 
+arm-none-eabi-size   control_quad_32t6a.elf 
+   text	   data	    bss	    dec	    hex	filename
+  13112	     20	   1756	  14888	   3a28	control_quad_32t6a.elf
+Finished building: default.size.stdout
+ 
+arm-none-eabi-objcopy -O ihex control_quad_32t6a.elf control_quad_32t6a.hex
+ 
+
+10:25:19 Build Finished. 0 errors, 0 warnings. (took 1s.29ms)
+
